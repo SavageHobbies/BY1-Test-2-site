@@ -1,0 +1,58 @@
+export const servicesData = [
+      {
+        name: 'Reputation Management',
+        slug: 'reputation-management',
+        description: 'Our reputation management services help you monitor, manage, and improve your online reputation.',
+        features: ['Review monitoring', 'Review solicitation', 'Response management', 'Sentiment analysis'],
+        benefits: ['Improved online reputation', 'Increased customer trust', 'Enhanced brand image', 'Better search engine rankings'],
+      },
+      {
+        name: 'Marketing Systems',
+        slug: 'marketing-systems',
+        description: 'Our marketing systems services help you build robust and automated marketing processes.',
+        features: ['Automated email campaigns', 'SMS marketing automation', 'Social media management', 'CRM integration'],
+        benefits: ['Increased efficiency', 'Improved lead generation', 'Better customer engagement', 'Higher ROI'],
+      },
+      {
+        name: 'Digital Advertising',
+        slug: 'digital-advertising',
+        description: 'Our digital advertising services help you reach your target audience with effective campaigns.',
+        features: ['Search engine advertising', 'Social media advertising', 'Display advertising', 'Remarketing campaigns'],
+        benefits: ['Increased brand awareness', 'Targeted audience reach', 'Improved lead generation', 'Higher conversion rates'],
+      },
+      {
+        name: 'Platform Access',
+        slug: 'platform-access',
+        description: 'Get access to our powerful platform to manage your marketing and automation needs.',
+        features: ['Customizable dashboards', 'Real-time analytics', 'User management', 'API access'],
+        benefits: ['Centralized platform', 'Improved data visibility', 'Enhanced collaboration', 'Streamlined workflows'],
+      },
+      {
+        name: 'Lead Generation',
+        slug: 'lead-generation',
+        description: 'Our lead generation services help you attract and capture high-quality leads.',
+        features: ['Landing page creation', 'Lead capture forms', 'Lead magnets', 'A/B testing'],
+        benefits: ['Increased lead volume', 'Improved lead quality', 'Higher conversion rates', 'Better ROI'],
+      },
+      {
+        name: 'Communication Services',
+        slug: 'communication-services',
+        description: 'Our communication services help you improve your customer interactions and streamline your messaging.',
+        features: ['VoIP and call management', 'Unified messaging', 'Automated responses', 'Call tracking'],
+        benefits: ['Improved customer communication', 'Streamlined messaging', 'Enhanced efficiency', 'Better customer satisfaction'],
+      },
+      {
+        name: 'Technical & Support Services',
+        slug: 'technical-support',
+        description: 'Our technical and support services provide you with the assistance you need to succeed.',
+        features: ['Technical support', 'Platform maintenance', 'Troubleshooting', 'Training'],
+        benefits: ['Reliable support', 'Reduced downtime', 'Improved platform performance', 'Expert guidance'],
+      },
+      {
+        name: 'Business Consulting & Strategy',
+        slug: 'business-consulting',
+        description: 'Develop effective business strategies with our consulting services.',
+        features: ['Strategic planning', 'Market analysis', 'Business development', 'Growth strategies'],
+        benefits: ['Clear business direction', 'Improved decision-making', 'Increased market share', 'Sustainable growth'],
+      },
+    ];
